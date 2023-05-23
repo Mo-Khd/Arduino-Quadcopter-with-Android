@@ -1,1 +1,1 @@
-# Arduino-Quadcopter-with-Android
+# Arduino Quadcopter with Android smartphones
